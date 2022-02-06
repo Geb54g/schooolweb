@@ -1,0 +1,166 @@
+.header{display: flex;
+justify-content: center;
+justify-content: space-evenly;font-size: 1rem;
+justify-items: end;
+}
+
+.limit{text-align: center;
+padding-top: 5rem;
+color:black;}
+
+
+.head{font-size: 4rem;
+    font-weight: bolder;
+    color:black;
+}
+
+.subheader{font-size: 2rem;
+font-style: italic;}
+
+
+.one{background-image: url(./school\ bulding.jpeg);
+    background-size: cover;
+    height:100vh;
+}
+
+.mission{text-align: center;
+    background-color: cornsilk;
+}
+
+.button{background-color:rgb(212, 0, 255);
+opacity: 0.7;
+color: black;
+}
+
+body{background-color: cornsilk;}
+
+.values{text-align: center;
+background-color: cornsilk;
+font-stretch: ultra-condensed;
+}
+.three{background-color: cornsilk;}
+
+.four{display: flex;
+justify-content: center;
+text-align: center;
+background-color: cornsilk;
+}
+
+.inspire{font-weight: 800;}
+.team{
+    padding-left: 0.3rem;
+    padding-top: 0.5rem;
+    text-align: center;
+    width: 20%;
+    margin: 0.8rem;
+    padding-right: 0.3rem;
+    border-radius: 1em;
+
+}
+.endurance{
+    padding-left: 0.5rem;
+    padding-right: 0.7rem;
+    padding-top: 1rem;
+    padding-bottom: 0.7rem;
+    width: 20%;
+    text-align: center;
+    border-radius: 1em;
+    margin: 0.5rem;
+
+}
+
+.innovetive{
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+    padding-top: 0.7rem;
+    width: 18%;
+    text-align: center;
+    border-radius: 1em;
+}
+
+.feature{text-align: center;
+font-size: 1.5rem;
+font-weight: bold;
+padding-top: 3rem;padding-bottom: 2rem;
+background-color: cornsilk;
+font-style: oblique;
+}
+.five{display: flex;
+    justify-content: center;
+    background-color: cornsilk;
+    backface-visibility: visible;
+}
+
+.endo{font-weight: 800;}
+
+.six{text-align: center;
+
+}
+
+.form{display: flex;justify-content: center;font-size: medium;
+    font-weight: bold;
+}
+
+.quiz{
+font-size: 1rem;
+font-weight: bold;padding-top: 3rem;
+text-align: center;
+-ms-text-combine-horizontal: all;
+}
+
+.seven{padding-top: 2rem;
+    text-align: center;
+    text-orientation: upright;
+}
+.paragraph{padding-top: 1rem;
+}
+
+.submit{padding-top: 1rem;
+    border-radius: 1em;
+}
+
+.button{border-radius: 1em;
+    font-size: small;
+    cursor: pointer;
+    font-weight: bold;
+    
+}
+
+
+.eight{display: flex;
+justify-content: center;padding-top: 3rem;
+justify-content: space-evenly;
+}
+
+.nine{display: flex;
+justify-content:space-between;padding-top: 1rem;
+}
+
+.computer{
+    position: 1em;
+    margin: 1rem;
+    text-align: center;
+    padding-left: 0.3rem;
+    padding-top: 1rem;
+    width: 17%;
+    border-radius: 1em;
+
+}
+
+.lab{
+    padding-left: 0.8rem;
+    width: 16%;
+    text-align: center;
+    padding-top: 0.5rem;
+    border-radius: 1em;
+    padding-right: 0.3rem;
+}
+
+.library{
+    width: 18%;
+    padding-left: 0.1rem;
+    padding-top: 1rem;
+    text-align: center;
+    border-radius: 1em;
+
+}
