@@ -46,7 +46,7 @@
  ## Authors Info
  Email.address - [Gabrie Ndolo]gabrielndolo2@gmail.com.
  
- Live site
+ Live link sitegeb54g.github.io/schooolweb/
  
 ![Untitled (1)](https://user-images.githubusercontent.com/98159761/152702144-13125a07-9915-4d5e-a125-89e6fe43476a.png)
 
